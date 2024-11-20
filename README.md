@@ -15,11 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| <a href="https://github.com/evaristovidal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=evaristovidal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/evaristovidal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evaristovidal&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+### Books I read
 
-#### Top Repositories
+- ["[2020] Learning Domain-Driven Design (Aligning Software Architecture and Business Strategy)" by Vlad Khononov](https://github.com/evaristovidal/booksummaries/blob/main/Learning%20Domain-Driven%20Design.md).
+- ["[2019] Kubernetes: Up and Running (Dive into the future of Infrastructure)" by Brendan Burns, Joe Beda & Kelsey Hightower.](https://github.com/evaristovidal/booksummaries/blob/dev/kubernetes_up_and_running/Kubernetes%20up%20and%20running.md).
 
+<br />
+<br />
+
+### Leadership links
+
+- [The Leadership Library for Engineers](https://scalingfunds.notion.site/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a)
+- [GitHub - charlax/engineering-management: A collection of inspiring resources related to engineering management and tech leadership](https://github.com/charlax/engineering-management?tab=readme-ov-file)
+
+<br />
+<br />
+
+### Top Repositories
 
 <a href="https://github.com/evaristovidal/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=evaristovidal&repo=github-readme-stats&theme=buefy" />
@@ -31,7 +43,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-#### Leadership links
+| <a href="https://github.com/evaristovidal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=evaristovidal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/evaristovidal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evaristovidal&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-- [The Leadership Library for Engineers](https://scalingfunds.notion.site/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a)
-- [GitHub - charlax/engineering-management: A collection of inspiring resources related to engineering management and tech leadership](https://github.com/charlax/engineering-management?tab=readme-ov-file)
